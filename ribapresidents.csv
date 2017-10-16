@@ -1,78 +1,78 @@
-Start,End,First Name,Middle Name,Surname,F/M,Years Served
-2017,2019,Ben,,Derbyshire,M,2
-2015,2017,Jane,,Duncan,F,2
-2013,2015,Stephen,,Hodder,M,2
-2011,2013,Angela,,Brady,F,2
-2009,2011,Ruth,,Reed,F,2
-2007,2009,Sunand,,Prasad,M,2
-2005,2007,Jack,,Pringle,M,2
-2003,2005,George,,Ferguson,M,2
-2001,2003,Paul,,Hyett,M,2
-1999,2001,Marco,,Goldschmied,M,2
-1997,1999,David,,Rock,M,2
-1995,1997,Owen,,Luder,M,2
-1993,1995,Frank,,Duffy,M,2
-1991,1993,Richard,,MacCormac,M,2
-1989,1991,Maxwell,,Hutchinson,M,2
-1987,1989,Rod,,Hackney,M,2
-1985,1987,Larry,,Rolland,M,2
-1983,1985,Michael,,Manser,M,2
-1981,1983,Owen,,Luder,M,2
-1979,1981,John,Brian,Jefferson,M,2
-1977,1979,Gordon,,Graham,M,2
-1975,1977,Eric,,Lyons,M,2
-1973,1975,Fred,,Pooley,M,2
-1971,1973,Alex,,Gordon,M,2
-1969,1971,Peter,Faulkner,Shepheard,M,2
-1967,1969,Hugh,,Wilson,M,2
-1965,1967,Lionel,Gordon Baliol,Brett,M,2
-1964,1965,Donald,Evelyn Edward,Gibson,M,1
-1962,1964,Robert,Hogg,Matthew,M,2
-1960,1962,William,,Holford,M,2
-1958,1960,Basil,,Spence,M,2
-1956,1958,Kenneth,,Cross,M,2
-1954,1956,Charles,Herbert,Aslin,M,2
-1952,1954,Howard,,Robertson,M,2
-1950,1952,Andrew,Graham,Henderson,M,2
-1948,1950,Michael,,Waterhouse,M,2
-1946,1948,Lancelot,,Keay,M,2
-1943,1946,Percy,Edward,Thomas,M,3
-1940,1943,William,Henry,Ansell,M,3
-1939,1940,Edwin,Stanley,Hall,M,1
-1937,1939,Harry,Stuart Goodheart,Rendel,M,2
-1935,1937,Percy,Edward,Thomas,M,2
-1933,1935,Giles,Gilbert,Scott,M,2
-1931,1933,Raymond,,Unwin,M,2
-1929,1931,Banister,Flight,Fletcher,M,2
-1927,1929,Walter,,Tapper,M,2
-1925,1927,Edward,Guy,Dawber,M,2
-1923,1925,John,Alfred,Gotch,M,2
-1922,1923,Paul,,Waterhouse,M,1
-1919,1921,John,William,Simpson,M,2
-1917,1919,Henry,Thomas,Hare,M,2
-1914,1917,Ernest,,Newton,M,3
-1912,1914,Reginald,,Blomfield,M,2
-1910,1912,Leonard,,Stokes,M,2
-1908,1910,Ernest,,George,M,2
-1906,1908,Thomas,Edward,Collcutt,M,2
-1904,1906,John,,Belcher,M,2
-1902,1904,Aston,,Webb,M,2
-1899,1902,William,,Emerson,M,3
-1896,1899,George,,Aitchison,M,3
-1894,1896,Francis,Cranmer,Penrose,M,2
-1891,1894,John,Macvicar,Anderson,M,3
-1888,1890,Alfred,,Waterhouse,M,2
-1886,1887,Edward,,I'Anson,M,1
-1884,1886,Ewan,,Christian,M,2
-1882,1884,Horace,,Jones,M,2
-1881,1881,George,Edmund,Street (died in office),M,0
-1879,1881,John,,Wichcord Jr.,M,2
-1876,1879,Charles,,Barry Jr.,M,3
-1873,1876,George,Gilbert,Scott,M,3
-1870,1873,Thomas,Henry,Wyatt,M,3
-1867,1870,William,,Tite,M,3
-1865,1867,Alexander,James Beresford,Hope,M,2
-1863,1865,Thomas,Leverton,Donaldson,M,2
-1861,1863,William,,Tite,M,2
-1860,1861,Charles,Robert,Cockerell,M,1
-1835,1859,Thomas,Philip,Earl De Grey,M,24
+Start,End,First Name,Middle Name,Surname,F/M,Years Served,DOB,Nationality,Place of Birth
+2017,2019,Ben,,Derbyshire,M,2,,,
+2015,2017,Jane,,Duncan,F,2,,,
+2013,2015,Stephen,,Hodder,M,2,,,
+2011,2013,Angela,,Brady,F,2,,,
+2009,2011,Ruth,,Reed,F,2,,,
+2007,2009,Sunand,,Prasad,M,2,,,
+2005,2007,Jack,,Pringle,M,2,,,
+2003,2005,George,,Ferguson,M,2,,,
+2001,2003,Paul,,Hyett,M,2,,,
+1999,2001,Marco,,Goldschmied,M,2,,,
+1997,1999,David,,Rock,M,2,,,
+1995,1997,Owen,,Luder,M,2,,,
+1993,1995,Frank,,Duffy,M,2,,,
+1991,1993,Richard,,MacCormac,M,2,,,
+1989,1991,Maxwell,,Hutchinson,M,2,,,
+1987,1989,Rod,,Hackney,M,2,,,
+1985,1987,Larry,,Rolland,M,2,,,
+1983,1985,Michael,,Manser,M,2,,,
+1981,1983,Owen,,Luder,M,2,,,
+1979,1981,John,Brian,Jefferson,M,2,,,
+1977,1979,Gordon,,Graham,M,2,,,
+1975,1977,Eric,,Lyons,M,2,,,
+1973,1975,Fred,,Pooley,M,2,,,
+1971,1973,Alex,,Gordon,M,2,,,
+1969,1971,Peter,Faulkner,Shepheard,M,2,,,
+1967,1969,Hugh,,Wilson,M,2,,,
+1965,1967,Lionel,Gordon Baliol,Brett,M,2,,,
+1964,1965,Donald,Evelyn Edward,Gibson,M,1,,,
+1962,1964,Robert,Hogg,Matthew,M,2,,,
+1960,1962,William,,Holford,M,2,1907,British,South Africa
+1958,1960,Basil,,Spence,M,2,1907,Scottish,India
+1956,1958,Kenneth,,Cross,M,2,,,
+1954,1956,Charles,Herbert,Aslin,M,2,1893,English,
+1952,1954,Howard,,Robertson,M,2,1888,American Born British,
+1950,1952,Andrew,Graham,Henderson,M,2,,,
+1948,1950,Michael,,Waterhouse,M,2,1888,English,
+1946,1948,Lancelot,,Keay,M,2,,,
+1943,1946,Percy,Edward,Thomas,M,3,1883,English,
+1940,1943,William,Henry,Ansell,M,3,1872,English,
+1939,1940,Edwin,Stanley,Hall,M,1,,,
+1937,1939,Harry,Stuart Goodheart,Rendel,M,2,1887,English,
+1935,1937,Percy,Edward,Thomas,M,2,1883,English,
+1933,1935,Giles,Gilbert,Scott,M,2,1880,English,
+1931,1933,Raymond,,Unwin,M,2,1863,English,
+1929,1931,Banister,Flight,Fletcher,M,2,1866,English,
+1927,1929,Walter,,Tapper,M,2,1861,English,
+1925,1927,Edward,Guy,Dawber,M,2,1861,English,
+1923,1925,John,Alfred,Gotch,M,2,1852,English,
+1922,1923,Paul,,Waterhouse,M,1,1861,English,
+1919,1921,John,William,Simpson,M,2,1858,English,
+1917,1919,Henry,Thomas,Hare,M,2,1861,English,
+1914,1917,Ernest,,Newton,M,3,1856,English,
+1912,1914,Reginald,,Blomfield,M,2,1856,English,
+1910,1912,Leonard,,Stokes,M,2,1858,English,
+1908,1910,Ernest,,George,M,2,1839,English,
+1906,1908,Thomas,Edward,Collcutt,M,2,1840,English,
+1904,1906,John,,Belcher,M,2,1841,English,
+1902,1904,Aston,,Webb,M,2,1849,English,
+1899,1902,William,,Emerson,M,3,1843,English,
+1896,1899,George,,Aitchison,M,3,1825,English,
+1894,1896,Francis,Cranmer,Penrose,M,2,1817,English,
+1891,1894,John,Macvicar,Anderson,M,3,1835,Scottish,
+1888,1890,Alfred,,Waterhouse,M,2,1830,,
+1886,1887,Edward,,I'Anson,M,1,1812,,
+1884,1886,Ewan,,Christian,M,2,1814,,
+1882,1884,Horace,,Jones,M,2,1819,,
+1881,1881,George,Edmund,Street (died in office),M,0,1824,,
+1879,1881,John,,Wichcord Jr.,M,2,1823,,
+1876,1879,Charles,,Barry Jr.,M,3,1823,,
+1873,1876,George,Gilbert,Scott,M,3,1811,,
+1870,1873,Thomas,Henry,Wyatt,M,3,1807,,
+1867,1870,William,,Tite,M,3,1798,English,England
+1865,1867,Alexander,James Beresford,Hope,M,2,1820,English,England
+1863,1865,Thomas,Leverton,Donaldson,M,2,1795,English,England
+1861,1863,William,,Tite,M,2,1798,English,England
+1860,1861,Charles,Robert,Cockerell,M,1,1788,English,England
+1835,1859,Thomas,Philip,Earl De Grey,M,24,1781,English,England
